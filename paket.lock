@@ -660,7 +660,7 @@ NUGET
       Fake.Core.Trace (>= 5.19.1) - restriction: || (>= net462) (>= netstandard2.0)
       Fake.IO.FileSystem (>= 5.19.1) - restriction: || (>= net462) (>= netstandard2.0)
       FSharp.Core (>= 4.7) - restriction: || (>= net462) (>= netstandard2.0)
-      MSBuild.StructuredLogger (>= 2.0.152) - restriction: || (>= net462) (>= netstandard2.0)
+      MSBuild.StructuredLogger (>= 2.1.507) - restriction: || (>= net462) (>= netstandard2.0)
       System.ValueTuple (>= 4.4) - restriction: >= net462
     Fake.DotNet.NuGet (5.19.1) - restriction: || (>= net462) (>= netstandard2.0)
       Fake.Core.Environment (>= 5.19.1) - restriction: || (>= net462) (>= netstandard2.0)
@@ -761,7 +761,7 @@ NUGET
       System.Security.AccessControl (>= 4.7) - restriction: || (&& (>= monoandroid) (< netstandard2.0)) (>= monotouch) (&& (< net46) (>= netstandard2.0)) (>= net461) (>= netcoreapp2.0) (>= xamarinios) (>= xamarinmac) (>= xamarintvos) (>= xamarinwatchos)
       System.Security.Principal.Windows (>= 4.7) - restriction: || (&& (>= monoandroid) (< netstandard2.0)) (>= monotouch) (&& (< net46) (>= netstandard2.0)) (>= net461) (>= netcoreapp2.0) (>= xamarinios) (>= xamarinmac) (>= xamarintvos) (>= xamarinwatchos)
     Mono.Posix.NETStandard (1.0) - restriction: || (>= net462) (>= netstandard2.0)
-    MSBuild.StructuredLogger (2.1.117) - restriction: || (>= net462) (>= netstandard2.0)
+    MSBuild.StructuredLogger (2.1.507) - restriction: || (>= net462) (>= netstandard2.0)
       Microsoft.Build (>= 16.4) - restriction: >= netstandard2.0
       Microsoft.Build.Framework (>= 16.4) - restriction: >= netstandard2.0
       Microsoft.Build.Tasks.Core (>= 16.4) - restriction: >= netstandard2.0

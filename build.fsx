@@ -93,7 +93,7 @@ Target.create "AssemblyInfo" (fun _ ->
         )
 )
 
-Target.create "Restore" (fun _ ->
+Target.create "Restore" (fun _ ->    
     DotNet.restore id ""
 )
 

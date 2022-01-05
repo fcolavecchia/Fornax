@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E91F7551-B
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fornax.Core.UnitTests", "test\Fornax.Core.UnitTests\Fornax.Core.UnitTests.fsproj", "{C5C16B9D-4CC9-4BD9-AD9D-996E670189BA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder1", "SolutionFolder1", "{83699BEE-81C6-4E25-BDF3-0E684E0CF4F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
