@@ -7,6 +7,43 @@ NUGET
     Expecto (9.0)
       FSharp.Core (>= 4.6) - restriction: || (>= net461) (>= netstandard2.0)
       Mono.Cecil (>= 0.11.2) - restriction: || (>= net461) (>= netstandard2.0)
+    Fable.AST (3.1.1) - restriction: >= netstandard2.0
+    Fable.Browser.Blob (1.1.4) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.0) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Fable.Browser.Dom (2.8) - restriction: >= netstandard2.0
+      Fable.Browser.Blob (>= 1.1.4) - restriction: >= netstandard2.0
+      Fable.Browser.Event (>= 1.4.6) - restriction: >= netstandard2.0
+      Fable.Browser.WebStorage (>= 1.0.4) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Fable.Browser.Event (1.4.6) - restriction: >= netstandard2.0
+      Fable.Browser.Gamepad (>= 1.0.3) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.0) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Fable.Browser.Gamepad (1.0.3) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.0) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Fable.Browser.WebStorage (1.0.4) - restriction: >= netstandard2.0
+      Fable.Browser.Event (>= 1.4.4) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.0) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Fable.Core (3.6.1) - restriction: >= netstandard2.0
+    Fable.React (7.4.3) - restriction: >= netstandard2.0
+      Fable.Browser.Dom (>= 2.4.4) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.2.7) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Feliz (1.57) - restriction: >= netstandard2.0
+      Fable.Core (>= 3.1.5) - restriction: >= netstandard2.0
+      Fable.React (>= 7.4) - restriction: >= netstandard2.0
+      Feliz.CompilerPlugins (>= 1.6) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Feliz.CompilerPlugins (1.6) - restriction: >= netstandard2.0
+      Fable.AST (>= 3.0) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
+    Feliz.DaisyUI (1.4)
+      Feliz (>= 1.32) - restriction: >= netstandard2.0
+      FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
     FSharp.Compiler.Service (38.0.2)
       FSharp.Core (5.0) - restriction: >= netstandard2.0
       Microsoft.Build.Framework (>= 16.6) - restriction: >= netstandard2.0
@@ -56,7 +93,7 @@ NUGET
       System.Security.Cryptography.Xml (>= 4.7) - restriction: && (< net472) (>= netstandard2.0)
       System.Security.Permissions (>= 4.7) - restriction: && (< net472) (>= netstandard2.0)
       System.Threading.Tasks.Dataflow (>= 4.9) - restriction: >= netstandard2.0
-    Microsoft.Build.Utilities.Core (16.8) - restriction: >= netstandard2.0
+    Microsoft.Build.Utilities.Core (16.8)
       Microsoft.Build.Framework (>= 16.8) - restriction: >= netstandard2.0
       Microsoft.VisualStudio.Setup.Configuration.Interop (>= 1.16.30) - restriction: >= net472
       Microsoft.Win32.Registry (>= 4.3) - restriction: && (< net472) (>= netstandard2.0)

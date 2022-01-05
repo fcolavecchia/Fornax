@@ -3,6 +3,7 @@ source https://www.nuget.org/api/v2
 storage: none
 
 nuget Expecto
+nuget Feliz.DaisyUI
 nuget FSharp.Core
 
 nuget FSharp.Compiler.Service 38.0.2
